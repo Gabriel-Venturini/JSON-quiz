@@ -1,0 +1,9 @@
+[{"question_text": "Which country is known by it's kangaroos?", 
+  "alternatives": ["Australia", "Brazil", "Germany", "USA"], 
+  "correct_answer": 1},
+ {"question_text": "Who invented Apple?", 
+  "alternatives": ["Bill Gates", "Jorge Waters", "Steve Jobs", "Chris Cornell"], 
+  "correct_answer": 3},
+  {"question_text": "What is the name of Matrix main character?", 
+  "alternatives": ["Alan Turing", "Thomas Anderson", "Ramon Dino", "Anya Taylor"], 
+  "correct_answer": 2}]
